@@ -1,0 +1,7 @@
+{
+ "construction": "hadamard",
+ "b": 6,
+ "seed": 1337,
+ "test": 90.72250315910765,
+ "scaled_error": 0.6047654476434711
+}

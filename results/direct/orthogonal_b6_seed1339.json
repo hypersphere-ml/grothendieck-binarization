@@ -1,0 +1,7 @@
+{
+ "construction": "orthogonal",
+ "b": 6,
+ "seed": 1339,
+ "test": 96.71673148643514,
+ "scaled_error": 0.5938258426480817
+}

@@ -1,0 +1,6 @@
+data/
+runs/
+*.pt
+__pycache__/
+figures/*.eps
+.ruff_cache/
